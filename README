@@ -1,0 +1,19 @@
+README
+To run part2 - you need to have Node and npm installed
+
+-Run npm install to install all dependencies in package.json
+
+-Run node server.js
+
+-Go to http://localhost:3000 to access chat app
+
+
+FileList
+-package.json -> information about the project/dependencies
+-server.js -> server in javascript that sets up a chat client on port 3000
+-swearWords.csv -> CSV file with swear words
+-commonwords.csv -> CSV file of the 4000 most commonly used words
+-wordArray.py -> Python script in order to extract CSV data into string arrays in order to avoid manual labour
+-public/index.html -> Main chat pagae that has the chat window and allows you to send/receive messages
+-public/style.css ->CSS styling sheet for index.html
+-public/client.js ->Client side javascript loaded into index.html that handles Client processes

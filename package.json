@@ -1,0 +1,10 @@
+{
+  "name": "Part2-chat-app",
+  "version": "0.0.1",
+  "description": "Part 2 of Vulcun coding assignment",
+  "dependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.4.0",
+    "underscore": "^1.8.3"
+  }
+}
